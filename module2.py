@@ -7,7 +7,7 @@ def ____(____, ____):
     langs_count = {}
 
     # Extract column from DataFrame: col
-    col = df[col_name]
+    col = df[col
 
     # Iterate over lang column in DataFrame
     for entry in col:
